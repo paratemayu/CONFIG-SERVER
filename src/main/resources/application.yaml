@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/paratemayu/config-repo
+          uri: https://github.com/paratemayu/CONFIG-SERVER
 
 server:
    port: 8888
